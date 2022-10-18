@@ -1,0 +1,26 @@
+PC_ 1 
+Positive:  DVL1, WDR83.1, LMF2, GPS1, BRAT1 
+Negative:  ATP7A, BRWD3, ZDHHC21, NCKAP1, ROCK2 
+PC_ 2 
+Positive:  CAT, SCN8A, GAS2, HADH, MPDZ 
+Negative:  UBALD2, GATAD2A, B4GALT5, TEAD4, PTPN1 
+PC_ 3 
+Positive:  SLC19A2, IRS2, DUSP10, ERF, NFIL3 
+Negative:  SMARCA4, CACNA1D, DYNLT1, TTL, CCND1 
+PC_ 4 
+Positive:  CLSTN1, HTR7, RUNX1T1, MAX, RASA4 
+Negative:  LSM1.1, NMT2, HSPD1, CISD1, CBX3 
+PC_ 5 
+Positive:  TMF1, GTF2F1, KCNA1, HNRNPF, SPATA1 
+Negative:  CPNE2, MMRN2, RRAS, SPPL3, SAP130 
+PC_ 6 
+Positive:  ENPP5, RASL11B, SPINT1, THRA, KIAA1522 
+Negative:  VEGFA, SF1, ZXDC, ELL, PHF21A 
+PC_ 7 
+Positive:  IL2RB, P4HB, SNX8, NCAM2, MDGA2 
+Negative:  PKDCC, LTBP4, TLE1, RPL7A.2, PDP1 
+
+
+      p_val avg_log2FC pct.1 pct.2 p_val_adj cluster gene   
+      <dbl>      <dbl> <dbl> <dbl>     <dbl> <fct>   <chr>  
+1 0.0000134      0.262     1     1    0.0299 2       ACTN4.1
